@@ -1,0 +1,10 @@
+MRubyConsole/.vs/
+MRubyConsole/Debug/MRubyConsole.exe
+*.ilk
+*.pdb
+MRubyConsole/MRubyConsole/.idea/
+*.obj
+*.log
+*.pch
+*.tlog
+MRubyConsole/MRubyConsole/Debug/vc142.idb
